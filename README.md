@@ -7,16 +7,38 @@ Composite plots of elbow graphs and scatter plots are provided.
 
 # Dependencies
 •	Pandas
+
 •	Sklean.cluster - KMeans
+
 •	Sklearn.decomposition - PCA
+
 •	sklearn.preprocessing – StandardScaler
+
 •	hyplot.pandas
+
+
 # Some Topics Covered
+
 •	read csv file
-•	plot a line graphs and scatter plots
-•	StandardScaler used to normalize data
-•	Created pandas dataframe
-•	Plotted elbow curve
+
+•	standardScaler used to normalize data
+
+•	created pandas dataframe
+
+•	plot a line graph
+
+![line](https://github.com/PSchaefer82/CryptoClustering/blob/main/Resources/Initial%20linegraph.png)
+
+•	plot elbow curve
+
+![elbow](https://github.com/PSchaefer82/CryptoClustering/blob/main/Resources/Elbow%20Curve.png)
+
+•	scatter plot
+
+![elbow](https://github.com/PSchaefer82/CryptoClustering/blob/main/Resources/Scatterplot.png)
+
+
+
 
 
 ## Getting Started
